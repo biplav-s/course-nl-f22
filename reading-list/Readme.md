@@ -17,3 +17,4 @@
 
 5. NLP Applications
 > 1. Yufeng Huang, Mariana Bernagozzi, Michelle Morales, Sheema Usmani, Biplav Srivastava, Michelle Mullins, [Clarity 2.0: Improved Assessment of Product Competitiveness from Online Content](https://ojs.aaai.org/index.php/aimagazine/article/view/15100). AI Mag. 42(2): 59-70 (2021)
+> 2. [Artificial intelligence is helping scientists decode animal languages](https://www.popsci.com/technology/artificial-intelligence-animal-language/), Charlotte Hu, Popular Science, Sep 2022, 
