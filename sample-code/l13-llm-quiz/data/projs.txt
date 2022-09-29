@@ -1,0 +1,22 @@
+Water - South Carolina
+Evolving Firearm Regulations
+Crime analysis in South Carolina
+Target aspect based sentiment analysis for urban neighborhoods
+Extracting synthesis procedure from solar cell perovskite based scientific publications.
+Entity Recognition : Water Data Regulations
+TOS: Banks' Terms of Services summary
+Water Regulation Summarization
+Predicting the 2022 gubernatorial election of South Carolina using sentiment analysis of Twitter.
+Scientific Artical Summarization
+New FastText [with Election data]
+Chatbot to answer quesries regarding WHO Water Regulations 
+Verifying various foods connection to improve diabetes using NLP techniques 
+Summarization of Terms and conditions
+Chatbot for Elections FAQ - State of Mississippi
+Image Captioning using Transformer Models
+Specialist Doctor Recommendation System
+Application of Artificial Neural Networks (ANN) to Automatic Speech Recognition (ASR) on a Novel Dataset created using YouTube
+Detecting and rating severity of urgency in short, one-time crisis events vs. ongoing ones
+Water Regulations - Arizona
+Damaged doc. prediction (10%)
+Visual Question Answering
