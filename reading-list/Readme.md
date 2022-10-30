@@ -19,6 +19,9 @@
 > 1. Data - [Introduction to the CoNLL-2002 Shared Task: Language-Independent Named Entity Recognition](https://aclanthology.org/W02-2024/). Extraction in Dutch and Spanish.
 > 2. Data - [Introduction to the CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition](https://paperswithcode.com/dataset/conll-2003). Extraction in English and German.
 
-6. NLP Applications
+6. NLP Packages
+> 1. See [Useful NLP Packages](https://github.com/biplav-s/course-nl/blob/8f0bb9e50db6706595e6d5ca38c39d31e9bfc77b/resources/UsefulNLPPackages.md) resources from CSCE 771 - Fall 2020
+
+7. NLP Applications
 > 1. Yufeng Huang, Mariana Bernagozzi, Michelle Morales, Sheema Usmani, Biplav Srivastava, Michelle Mullins, [Clarity 2.0: Improved Assessment of Product Competitiveness from Online Content](https://ojs.aaai.org/index.php/aimagazine/article/view/15100). AI Mag. 42(2): 59-70 (2021)
 > 2. [Artificial intelligence is helping scientists decode animal languages](https://www.popsci.com/technology/artificial-intelligence-animal-language/), Charlotte Hu, Popular Science, Sep 2022, 
