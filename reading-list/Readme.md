@@ -9,6 +9,10 @@
 > 2. [A Primer in BERTology: What We Know About How BERT Works](https://aclanthology.org/2020.tacl-1.54) (Rogers et al., TACL 2020)
 > 3. [ChatGPT](https://openai.com/blog/chatgpt/), from OpenAI - LLM for dialogs
 > > 1. [The Brilliance and Weirdness of ChatGPT](https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html) [NY Times, Dec 2022]
+> 4. [ChatGPT is not all you need. A State of the Art Review of large Generative AI models](https://arxiv.org/abs/2301.04655) [Jan 2023]
+> 5. Errors by language models
+> > 1. [Large Language Models like ChatGPT say The Darnedest Things](https://garymarcus.substack.com/p/large-language-models-like-chatgpt) [A collection of mistakes by LLMs]
+> > 2. [ChatGPT mistakes](https://github.com/giuven95/chatgpt-failure) [A GitHub of mistakes]
 
 3. Text classification, learning
 > 1. Shervin Minaee, Nal Kalchbrenner, Erik Cambria, Narjes Nikzad, Meysam Chenaghlu, and Jianfeng Gao. 2021. [Deep Learning--based Text Classification: A Comprehensive Review](https://dl.acm.org/doi/abs/10.1145/3439726). ACM Comput. Surv. 54, 3, Article 62 (April 2022), 40 pages. https://doi.org/10.1145/3439726
