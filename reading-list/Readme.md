@@ -11,6 +11,7 @@
 > > 1. [The Brilliance and Weirdness of ChatGPT](https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html) [NY Times, Dec 2022]
 > > 2. [ChatGPT is 'not particularly innovative,' and 'nothing revolutionary', says Meta's chief AI scientist](https://www.zdnet.com/article/chatgpt-is-not-particularly-innovative-and-nothing-revolutionary-says-metas-chief-ai-scientist/) [Yann LeCun, Jan 2022]
 > > 3. [ChatGPT passes MBA exam given by a Wharton professor](https://www.nbcnews.com/tech/tech-news/chatgpt-passes-mba-exam-wharton-professor-rcna67036) [Passing test with B grade at Wharton, Jan 2023]
+> > 4. [How Smart Are the Robots Getting?](https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.html) [Chatbots and Turing test, NY Time, Jan 2022]
 > 4. [ChatGPT is not all you need. A State of the Art Review of large Generative AI models](https://arxiv.org/abs/2301.04655) [Jan 2023]
 > 5. Errors by language models
 > > 1. [Large Language Models like ChatGPT say The Darnedest Things](https://garymarcus.substack.com/p/large-language-models-like-chatgpt) [A collection of mistakes by LLMs]
