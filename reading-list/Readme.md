@@ -22,9 +22,9 @@
 3. Text classification, learning
 > 1. Shervin Minaee, Nal Kalchbrenner, Erik Cambria, Narjes Nikzad, Meysam Chenaghlu, and Jianfeng Gao. 2021. [Deep Learning--based Text Classification: A Comprehensive Review](https://dl.acm.org/doi/abs/10.1145/3439726). ACM Comput. Surv. 54, 3, Article 62 (April 2022), 40 pages. https://doi.org/10.1145/3439726
 
-
 4. AI, language and human understanding
 > 1. [AI And The Limits Of Language](https://www.noemamag.com/ai-and-the-limits-of-language/),  Jacob Browning and Yann LeCun, Aug 2022. _Argues that not all human knowledge is in text, and so, any AI trained on it will struggle_.
+> 2. Weidinger, Laura, et al., [Taxonomy of Risks posed by Language Models](https://dl.acm.org/doi/10.1145/3531146.3533088), 2022 ACM Conference on Fairness, Accountability, and Transparency.
 
 5. NLP Datasets and Tasks 
 > 1. Data - [Introduction to the CoNLL-2002 Shared Task: Language-Independent Named Entity Recognition](https://aclanthology.org/W02-2024/). Extraction in Dutch and Spanish.
