@@ -8,14 +8,21 @@
 10.1145/3490443
 > 2. [A Primer in BERTology: What We Know About How BERT Works](https://aclanthology.org/2020.tacl-1.54) (Rogers et al., TACL 2020)
 > 3. [ChatGPT](https://openai.com/blog/chatgpt/), from OpenAI - LLM for dialogs
-> > 1. [The Brilliance and Weirdness of ChatGPT](https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html) [NY Times, Dec 2022]
-> > 2. [ChatGPT is 'not particularly innovative,' and 'nothing revolutionary', says Meta's chief AI scientist](https://www.zdnet.com/article/chatgpt-is-not-particularly-innovative-and-nothing-revolutionary-says-metas-chief-ai-scientist/) [Yann LeCun, Jan 2023]
-> > 3. [ChatGPT passes MBA exam given by a Wharton professor](https://www.nbcnews.com/tech/tech-news/chatgpt-passes-mba-exam-wharton-professor-rcna67036) [Passing test with B grade at Wharton, Jan 2023]
-> > 4. [ChatGPT passes exams from law and business schools](https://www.cnn.com/2023/01/26/tech/chatgpt-passes-exams/index.html) [Jan 2023]
-> > 5. [How Smart Are the Robots Getting?](https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.html) [Chatbots and Turing test, NY Time, Jan 2023]
-> > 6. [ChatGPT is not all you need. A State of the Art Review of large Generative AI models](https://arxiv.org/abs/2301.04655) [Jan 2023]
-> > 7. [Real estate agents say they can’t imagine working without ChatGPT now](https://www.cnn.com/2023/01/28/tech/chatgpt-real-estate/index.html)  [Real-estate industry and ChatGPT, Jan 2023]
-> 8. Errors by language models
+> > a. About the technology
+> > > 1. [The Brilliance and Weirdness of ChatGPT](https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html) [NY Times, Dec 2022]
+> > > 2. [ChatGPT is 'not particularly innovative,' and 'nothing revolutionary', says Meta's chief AI scientist](https://www.zdnet.com/article/chatgpt-is-not-particularly-innovative-and-nothing-revolutionary-says-metas-chief-ai-scientist/) [Yann LeCun, Jan 2023]
+> > > 3. [ChatGPT is not all you need. A State of the Art Review of large Generative AI models](https://arxiv.org/abs/2301.04655) [Jan 2023]
+> > > 4. [Working with ChatGPT-like LLM-based-AIs Reliably: Don’t Look at Only the Technology Pillar For All The Answers](https://www.linkedin.com/pulse/working-chatgpt-like-llm-based-ais-reliably-dont-look-srivastava/) [Biplav Srivastava, Jan 2023]. _Argues that beyond technology, user education, regulation and standards are need to mature any technology, and now AI_
+> > > 5. [Will ChatGPT supplant us as writers, thinkers?](https://news.harvard.edu/gazette/story/2023/02/will-chatgpt-replace-human-writers-pinker-weighs-in/) [Steven Pinker, Feb 2023]
+> > > 6. [Beauty, lies & ChatGPT: Welcome to the post-truth world](https://thehill.com/opinion/technology/3861182-beauty-lies-chatgpt-welcome-to-the-post-truth-world/) [Subbaro Kambhampati, Feb 2023]. _Says that ChatGPT can help in framing search questions but cannot link to data source to prove results truthfulness._
+
+> > b. Passing tests
+> > > 1. [ChatGPT passes MBA exam given by a Wharton professor](https://www.nbcnews.com/tech/tech-news/chatgpt-passes-mba-exam-wharton-professor-rcna67036) [Passing test with B grade at Wharton, Jan 2023]
+> > > 2. [ChatGPT passes exams from law and business schools](https://www.cnn.com/2023/01/26/tech/chatgpt-passes-exams/index.html) [Jan 2023]
+> > > 3.  [How Smart Are the Robots Getting?](https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.html) [Chatbots and Turing test, NY Time, Jan 2023]
+> > > 4. [Real estate agents say they can’t imagine working without ChatGPT now](https://www.cnn.com/2023/01/28/tech/chatgpt-real-estate/index.html)  [Real-estate industry and ChatGPT, Jan 2023]
+
+> > c. Errors by language models
 > > 1. [Large Language Models like ChatGPT say The Darnedest Things](https://garymarcus.substack.com/p/large-language-models-like-chatgpt) [A collection of mistakes by LLMs]
 > > 2. [ChatGPT mistakes](https://github.com/giuven95/chatgpt-failure) [A GitHub of mistakes]
 
