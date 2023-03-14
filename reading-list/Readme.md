@@ -7,7 +7,8 @@
 > 1. Hang Li, [Language Models: Past, Present, and Future](https://cacm.acm.org/magazines/2022/7/262080-language-models/fulltext), Communications of the ACM, July 2022, Vol. 65 No. 7, Pages 56-63
 10.1145/3490443
 > 2. [A Primer in BERTology: What We Know About How BERT Works](https://aclanthology.org/2020.tacl-1.54) (Rogers et al., TACL 2020)
-> 3. [ChatGPT](https://openai.com/blog/chatgpt/), from OpenAI - LLM for dialogs
+> 3. Large Language Model (LLM) size, performance and resource needs - [In AI, is bigger always better?](https://www.nature.com/articles/d41586-023-00641-w), March 2023.
+> 4. [ChatGPT](https://openai.com/blog/chatgpt/), from OpenAI - LLM for dialogs
 > > a. About the technology
 > > > 1. [The Brilliance and Weirdness of ChatGPT](https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html) [NY Times, Dec 2022]
 > > > 2. [ChatGPT is 'not particularly innovative,' and 'nothing revolutionary', says Meta's chief AI scientist](https://www.zdnet.com/article/chatgpt-is-not-particularly-innovative-and-nothing-revolutionary-says-metas-chief-ai-scientist/) [Yann LeCun, Jan 2023]
