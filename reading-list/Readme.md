@@ -29,7 +29,8 @@
 > > > 2. [ChatGPT passes exams from law and business schools](https://www.cnn.com/2023/01/26/tech/chatgpt-passes-exams/index.html) [Jan 2023]
 > > > 3.  [How Smart Are the Robots Getting?](https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.html) [Chatbots and Turing test, NY Time, Jan 2023]
 > > > 4. [Real estate agents say they can’t imagine working without ChatGPT now](https://www.cnn.com/2023/01/28/tech/chatgpt-real-estate/index.html)  [Real-estate industry and ChatGPT, Jan 2023]
-> > > 5. Previous chatbots and what's new with new chatbots [How Siri, Alexa and Google Assistant Lost the A.I. Race](https://www.nytimes.com/2023/03/15/technology/siri-alexa-google-assistant-artificial-intelligence.html) [Comparison, March 2023]
+> > > 5. Previous chatbots and what's new with new chatbots - [How Siri, Alexa and Google Assistant Lost the A.I. Race](https://www.nytimes.com/2023/03/15/technology/siri-alexa-google-assistant-artificial-intelligence.html) [Comparison, March 2023]
+> > > 6. [ChatGPT fails prestigious Indian civil service test](https://www.globalgovernmentforum.com/chatgpt-fails-prestigious-indian-civil-service-test-us-works-to-streamline-citizen-experience-policy-delivery-news-in-brief/) [March 2023]
 
 > > c. Errors by language models
 > > 1. [Large Language Models like ChatGPT say The Darnedest Things](https://garymarcus.substack.com/p/large-language-models-like-chatgpt) [A collection of mistakes by LLMs]
