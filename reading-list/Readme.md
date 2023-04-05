@@ -32,9 +32,10 @@
 > > > 5. Previous chatbots and what's new with new chatbots - [How Siri, Alexa and Google Assistant Lost the A.I. Race](https://www.nytimes.com/2023/03/15/technology/siri-alexa-google-assistant-artificial-intelligence.html) [Comparison, March 2023]
 > > > 6. [ChatGPT fails prestigious Indian civil service test](https://www.globalgovernmentforum.com/chatgpt-fails-prestigious-indian-civil-service-test-us-works-to-streamline-citizen-experience-policy-delivery-news-in-brief/) [March 2023]
 
-> > c. Errors by language models
+> > c. Case Studies and Errors by language models
 > > 1. [Large Language Models like ChatGPT say The Darnedest Things](https://garymarcus.substack.com/p/large-language-models-like-chatgpt) [A collection of mistakes by LLMs]
 > > 2. [ChatGPT mistakes](https://github.com/giuven95/chatgpt-failure) [A GitHub of mistakes]
+> > 3. [Case studies with LLMs](https://github.com/ai4society/LLM-CaseStudies) - [Finance](https://github.com/ai4society/LLM-CaseStudies/tree/main/Finance)  [Detailed examples in industries]
 
 3. Text classification, learning
 > 1. Shervin Minaee, Nal Kalchbrenner, Erik Cambria, Narjes Nikzad, Meysam Chenaghlu, and Jianfeng Gao. 2021. [Deep Learning--based Text Classification: A Comprehensive Review](https://dl.acm.org/doi/abs/10.1145/3439726). ACM Comput. Surv. 54, 3, Article 62 (April 2022), 40 pages. https://doi.org/10.1145/3439726
@@ -43,13 +44,12 @@
 > 1. [AI And The Limits Of Language](https://www.noemamag.com/ai-and-the-limits-of-language/),  Jacob Browning and Yann LeCun, Aug 2022. _Argues that not all human knowledge is in text, and so, any AI trained on it will struggle_.
 > 2. Weidinger, Laura, et al., [Taxonomy of Risks posed by Language Models](https://dl.acm.org/doi/10.1145/3531146.3533088), 2022 ACM Conference on Fairness, Accountability, and Transparency.
 
-5. NLP Datasets and Tasks 
+5. Resources: Datasets, Packages, Courses
 > 1. Data - [Introduction to the CoNLL-2002 Shared Task: Language-Independent Named Entity Recognition](https://aclanthology.org/W02-2024/). Extraction in Dutch and Spanish.
 > 2. Data - [Introduction to the CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition](https://paperswithcode.com/dataset/conll-2003). Extraction in English and German.
+> 3. Packages - See [Useful NLP Packages](https://github.com/biplav-s/course-nl/blob/8f0bb9e50db6706595e6d5ca38c39d31e9bfc77b/resources/UsefulNLPPackages.md) resources from CSCE 771 - Fall 2020
+> 4. Courses - Stanford course - [CS 324 - Advances in Foundation Models](https://stanford-cs324.github.io/winter2023/syllabus/), USC course - [CSCE 771 - Computer Processing of Natural Languages](https://sites.google.com/site/biplavsrivastava/teaching/csce-771-computer-processing-of-natural-language)
 
-6. NLP Packages
-> 1. See [Useful NLP Packages](https://github.com/biplav-s/course-nl/blob/8f0bb9e50db6706595e6d5ca38c39d31e9bfc77b/resources/UsefulNLPPackages.md) resources from CSCE 771 - Fall 2020
-
-7. NLP Applications
+6. NLP Applications
 > 1. Yufeng Huang, Mariana Bernagozzi, Michelle Morales, Sheema Usmani, Biplav Srivastava, Michelle Mullins, [Clarity 2.0: Improved Assessment of Product Competitiveness from Online Content](https://ojs.aaai.org/index.php/aimagazine/article/view/15100). AI Mag. 42(2): 59-70 (2021)
 > 2. [Artificial intelligence is helping scientists decode animal languages](https://www.popsci.com/technology/artificial-intelligence-animal-language/), Charlotte Hu, Popular Science, Sep 2022, 
