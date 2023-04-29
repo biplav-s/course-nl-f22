@@ -13,6 +13,8 @@
 
 > > b. "22 times lesser energy thar regular LLM"  - [SpikeGPT: researcher releases code for largest-ever spiking neural network for language generation](https://news.ucsc.edu/2023/03/eshraghian-spikegpt.html), March 2023
 
+> > c. How  to choose LLMs - [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide), April 2023
+
 > 4. [ChatGPT](https://openai.com/blog/chatgpt/), from OpenAI - LLM for dialogs
 > > a. About the technology
 > > > 1. [The Brilliance and Weirdness of ChatGPT](https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html) [NY Times, Dec 2022]
