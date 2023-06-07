@@ -27,12 +27,13 @@
 > > > > o ChatGPT: [What It Can and Cannot Do](https://www.youtube.com/watch?v=ORoTJZcLXek), by Prof. Pascale Fung [March 2023]
 
 > > b. Impact: Passing tests and societal implications
-> > > 1. [ChatGPT passes MBA exam given by a Wharton professor](https://www.nbcnews.com/tech/tech-news/chatgpt-passes-mba-exam-wharton-professor-rcna67036) [Passing test with B grade at Wharton, Jan 2023]
-> > > 2. [ChatGPT passes exams from law and business schools](https://www.cnn.com/2023/01/26/tech/chatgpt-passes-exams/index.html) [Jan 2023]
+> > > 1. Business - [ChatGPT passes MBA exam given by a Wharton professor](https://www.nbcnews.com/tech/tech-news/chatgpt-passes-mba-exam-wharton-professor-rcna67036) [Passing test with B grade at Wharton, Jan 2023]
+> > > 2. Laws - [ChatGPT passes exams from law and business schools](https://www.cnn.com/2023/01/26/tech/chatgpt-passes-exams/index.html) [Jan 2023]
 > > > 3.  [How Smart Are the Robots Getting?](https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.html) [Chatbots and Turing test, NY Time, Jan 2023]
-> > > 4. [Real estate agents say they can’t imagine working without ChatGPT now](https://www.cnn.com/2023/01/28/tech/chatgpt-real-estate/index.html)  [Real-estate industry and ChatGPT, Jan 2023]
+> > > 4. Real Estate - [Real estate agents say they can’t imagine working without ChatGPT now](https://www.cnn.com/2023/01/28/tech/chatgpt-real-estate/index.html)  [Real-estate industry and ChatGPT, Jan 2023]
 > > > 5. Previous chatbots and what's new with new chatbots - [How Siri, Alexa and Google Assistant Lost the A.I. Race](https://www.nytimes.com/2023/03/15/technology/siri-alexa-google-assistant-artificial-intelligence.html) [Comparison, March 2023]
-> > > 6. [ChatGPT fails prestigious Indian civil service test](https://www.globalgovernmentforum.com/chatgpt-fails-prestigious-indian-civil-service-test-us-works-to-streamline-citizen-experience-policy-delivery-news-in-brief/) [March 2023]
+> > > 6. Civil Services - [ChatGPT fails prestigious Indian civil service test](https://www.globalgovernmentforum.com/chatgpt-fails-prestigious-indian-civil-service-test-us-works-to-streamline-citizen-experience-policy-delivery-news-in-brief/) [March 2023]
+> > > 7. Banks - [AI Chatbots Are Causing Bank Customers Headaches](https://www.cnet.com/personal-finance/ai-chatbots-are-causing-bank-customers-headaches/) [Consumers complaining about Bank Chatbots to Consumer Financial Protection Bureau in US, June 2023]
 
 > > c. Case Studies and Errors by language models
 > > 1. [Large Language Models like ChatGPT say The Darnedest Things](https://garymarcus.substack.com/p/large-language-models-like-chatgpt) [A collection of mistakes by LLMs]
