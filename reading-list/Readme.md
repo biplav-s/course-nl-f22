@@ -34,8 +34,9 @@
 > > > 5. Previous chatbots and what's new with new chatbots - [How Siri, Alexa and Google Assistant Lost the A.I. Race](https://www.nytimes.com/2023/03/15/technology/siri-alexa-google-assistant-artificial-intelligence.html) [Comparison, March 2023]
 > > > 6. Civil Services - [ChatGPT fails prestigious Indian civil service test](https://www.globalgovernmentforum.com/chatgpt-fails-prestigious-indian-civil-service-test-us-works-to-streamline-citizen-experience-policy-delivery-news-in-brief/) [March 2023]
 > > > 7. Banks - [AI Chatbots Are Causing Bank Customers Headaches](https://www.cnet.com/personal-finance/ai-chatbots-are-causing-bank-customers-headaches/) [Consumers complaining about Bank Chatbots to Consumer Financial Protection Bureau in US, June 2023]
+> > > 8. [Does ChatGPT have a liberal bias?](https://www.aisnakeoil.com/p/does-chatgpt-have-a-liberal-bias)[Exploring bias of text generated, Aug 2023]
 
-> > c. Case Studies and Errors by language models
+> > c. Case Studies and Errors of ChatGPT/ language models
 > > 1. [Large Language Models like ChatGPT say The Darnedest Things](https://garymarcus.substack.com/p/large-language-models-like-chatgpt) [A collection of mistakes by LLMs]
 > > 2. [ChatGPT mistakes](https://github.com/giuven95/chatgpt-failure) [A GitHub of mistakes]
 > > 3. [Case studies with LLMs](https://github.com/ai4society/LLM-CaseStudies) - [Finance](https://github.com/ai4society/LLM-CaseStudies/tree/main/Finance)  [Detailed examples in industries]
