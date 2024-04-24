@@ -41,6 +41,10 @@
 > > 2. [ChatGPT mistakes](https://github.com/giuven95/chatgpt-failure) [A GitHub of mistakes]
 > > 3. [Case studies with LLMs](https://github.com/ai4society/LLM-CaseStudies) - [Finance](https://github.com/ai4society/LLM-CaseStudies/tree/main/Finance)  [Detailed examples in industries]
 
+> 5. [Llama](https://ai.meta.com/blog/meta-llama-3/) open source, from Meta. Latest Version:3
+> > a. [Comparison of Llama3 with Llama2](https://www.apps4rent.com/blog/llama-3-vs-llama-2/), by Apps2Rent
+
+
 3. Text classification, learning
 > 1. Shervin Minaee, Nal Kalchbrenner, Erik Cambria, Narjes Nikzad, Meysam Chenaghlu, and Jianfeng Gao. 2021. [Deep Learning--based Text Classification: A Comprehensive Review](https://dl.acm.org/doi/abs/10.1145/3439726). ACM Comput. Surv. 54, 3, Article 62 (April 2022), 40 pages. https://doi.org/10.1145/3439726
 
