@@ -23,8 +23,11 @@
 > > > 4. [Working with ChatGPT-like LLM-based-AIs Reliably: Don’t Look at Only the Technology Pillar For All The Answers](https://www.linkedin.com/pulse/working-chatgpt-like-llm-based-ais-reliably-dont-look-srivastava/) [Biplav Srivastava, Jan 2023]. _Argues that beyond technology, user education, regulation and standards are need to mature any technology, and now AI_
 > > > 5. [Will ChatGPT supplant us as writers, thinkers?](https://news.harvard.edu/gazette/story/2023/02/will-chatgpt-replace-human-writers-pinker-weighs-in/) [Steven Pinker, Feb 2023]
 > > > 6. [Beauty, lies & ChatGPT: Welcome to the post-truth world](https://thehill.com/opinion/technology/3861182-beauty-lies-chatgpt-welcome-to-the-post-truth-world/) [Subbaro Kambhampati, Feb 2023]. _Says that ChatGPT can help in framing search questions but cannot link to data source to prove results truthfulness._
-> > > 7. Videos on technical details
-> > > > o ChatGPT: [What It Can and Cannot Do](https://www.youtube.com/watch?v=ORoTJZcLXek), by Prof. Pascale Fung [March 2023]
+> > > 7. Technical details
+   
+> > > > * ChatGPT: [What It Can and Cannot Do](https://www.youtube.com/watch?v=ORoTJZcLXek), video by Prof. Pascale Fung [March 2023]
+
+> > > > * The specification of GPT, called [Model Spec](https://openai.com/index/introducing-the-model-spec/). Explains what the intent of OpenAI's models are. [May 8, 2024]
 
 > > b. Impact: Passing tests and societal implications
 > > > 1. Business - [ChatGPT passes MBA exam given by a Wharton professor](https://www.nbcnews.com/tech/tech-news/chatgpt-passes-mba-exam-wharton-professor-rcna67036) [Passing test with B grade at Wharton, Jan 2023]
